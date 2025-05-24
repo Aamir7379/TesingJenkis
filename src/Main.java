@@ -6,5 +6,7 @@ public class Main {
 		System.out.println("hello jenkis first print");
 		System.out.println(a);
 		
+		System.out.println("changed");
+		
 	}
 }
